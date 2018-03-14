@@ -1,0 +1,29 @@
+.sidebar {
+  background-color: black;
+  color: white;
+  float: left;
+  margin-right: 20px;
+  width: 30%;
+}
+
+.tour-date-text {
+  padding: 0 16px;
+}
+
+.sidebar img {
+  display: block;
+  margin: auto;
+  max-width: 50%;
+  height: auto;
+}
+
+.columns {
+  width: 300px;
+  margin: 0 8px;
+  float: left;
+}
+
+.columns img {
+  max-width: 70%;
+  height: auto;
+}
