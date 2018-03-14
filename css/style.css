@@ -4,6 +4,7 @@
   float: left;
   margin-right: 20px;
   width: 30%;
+  border: 2px solid red;
 }
 
 .tour-date-text {
@@ -24,6 +25,7 @@
 }
 
 .columns img {
+  padding:  0 25px 0 25px;
   max-width: 70%;
   height: auto;
 }
